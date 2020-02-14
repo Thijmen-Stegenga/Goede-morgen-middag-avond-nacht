@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding:0 ;
+}
+body {
+  background-size: cover;
+  text-align: center;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  color: white;
+  position: absolute;
+  top: 38vh;
+  left: 38.5vw; 	
+}
+
